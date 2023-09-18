@@ -1,6 +1,6 @@
 # Graphical Interface with Periodic Table!
 import pygame
-from Clean_CSV import scrub_the_csv as scrub
+from data_collection.Clean_CSV import scrub_the_csv as scrub
 
 pygame.init()
 
